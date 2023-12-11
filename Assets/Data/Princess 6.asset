@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f917bb31e9bb841a789cc06a4bd9a2aa, type: 3}
+  m_Name: Princess 6
+  m_EditorClassIdentifier: 
+  Id: 1
+  Cost: 4
+  HitPoints: 50
+  HitRate: 3
+  Damage: 20
+  Speed: 1
+  Range: 0.75
+  Radius: 5
+  IsGroundTarget: 1
+  IsAirTarget: 1
+  NumberOfUnits: 1
+  HideTimer: 0
+  CanMove: 1
+  CanRotate: 1
+  Prefab: {fileID: 6221195262815855363, guid: b617e05999d7d4231994229629f02117, type: 3}
+  Color: {r: 0.20545568, g: 0.764151, b: 0.33926696, a: 1}
